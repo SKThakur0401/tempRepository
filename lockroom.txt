@@ -1,2 +1,1 @@
 this is a text file with one line only
-This is the second line, this line is written in the branch named "secondLine"
